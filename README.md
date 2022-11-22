@@ -1,3 +1,4 @@
 # Bootcamp Potência Tech Powered by iFood - Java Beginners
 
-Repositório contendo todos os arquivos relacionados ao bootcamp citado no título.
+! Olá, seja bem vindo ao meu GitHub;
+! Neste diretório você encontrará os códigos gerados pelo bootcamp "potência tech - iFood";
